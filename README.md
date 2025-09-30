@@ -9,6 +9,11 @@
 - Batch export with naming templates, pivot control, and optional hierarchy folders
 - Simple and clean UI with optional custom icons
 
+## 📥 Download
+
+You can always get the latest version here:  
+👉 [Download Super GameReady Generator](https://github.com/atomicshikai/Super-GRG-GameReadyGenerator/releases/latest)
+
 ## 📥 Installation
 1. Download the latest release `.zip` from this repository (Releases page).
 2. In Blender: `Edit > Preferences > Add-ons > Install…`
