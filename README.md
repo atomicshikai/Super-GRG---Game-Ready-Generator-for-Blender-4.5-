@@ -12,13 +12,14 @@
 ## 📥 Download
 
 You can always get the latest version here:  
+
 👉 [Download on GitHub](https://github.com/atomicshikai/Super-GRG-GameReadyGenerator/releases/latest)
 
 👉 [Download on Gumroad](https://mortus.gumroad.com/l/super-grg)
 
 
 ## 📥 Installation
-1. Download the latest release `.zip` from this repository (Releases page).
+1. Download the latest release `.zip` from this repository (Releases page) or Gumroad.
 2. In Blender: `Edit > Preferences > Add-ons > Install…`
 3. Select the `.zip` file and enable **Super GameReady Generator**.
 4. The panel will appear in `N-Panel > Super GRG`.
@@ -31,6 +32,9 @@ Suggestions and feedback are welcome. Feel free to open an issue.
 
 ## ☕ Support
 This add-on is free. If you’d like to support further updates and new tools, you can buy me a coffee or make a small donation. Totally optional, no pressure.
+[Buy Me a Coffee ☕❤️](https://buymeacoffee.com/mortus)
+
+
 
 With love,  
 **Mortus**
