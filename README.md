@@ -12,7 +12,9 @@
 ## 📥 Download
 
 You can always get the latest version here:  
-👉 [Download Super GameReady Generator](https://github.com/atomicshikai/Super-GRG-GameReadyGenerator/releases/latest)
+👉 [Download on GitHub](https://github.com/atomicshikai/Super-GRG-GameReadyGenerator/releases/latest)
+👉 [Download on Gumroad]([https://github.com/atomicshikai/Super-GRG-GameReadyGenerator/releases/latest](https://mortus.gumroad.com/l/super-grg))
+
 
 ## 📥 Installation
 1. Download the latest release `.zip` from this repository (Releases page).
