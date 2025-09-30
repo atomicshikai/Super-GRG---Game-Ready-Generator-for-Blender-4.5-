@@ -26,6 +26,7 @@ You can always get the latest version here:
 
 ## 📖 Documentation
 A full user guide is included as a PDF in this repository.
+[User Guide PDF](https://github.com/atomicshikai/Super-GRG-GameReadyGenerator/blob/main/Super-GRG_User-Guide.pdf)
 
 ## 🤝 Contributing
 Suggestions and feedback are welcome. Feel free to open an issue.
