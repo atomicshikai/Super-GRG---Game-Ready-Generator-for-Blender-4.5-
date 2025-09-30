@@ -13,7 +13,8 @@
 
 You can always get the latest version here:  
 👉 [Download on GitHub](https://github.com/atomicshikai/Super-GRG-GameReadyGenerator/releases/latest)
-👉 [Download on Gumroad]([https://github.com/atomicshikai/Super-GRG-GameReadyGenerator/releases/latest](https://mortus.gumroad.com/l/super-grg))
+
+👉 [Download on Gumroad](https://mortus.gumroad.com/l/super-grg)
 
 
 ## 📥 Installation
